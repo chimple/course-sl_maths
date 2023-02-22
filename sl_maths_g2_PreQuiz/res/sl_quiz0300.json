@@ -4,32 +4,27 @@
       "quizmaths",
       "1",
       "Description",
-      "bigger_and_smaller",
-      "",
-      "20~50",
-      "bigger",
-      "which_is_bigger.mp3",
-      "Which is bigger?",
-      "number"
-    ],
-    [
-      "quizmaths",
-      "1",
-      "Description",
-      "compare_number_magnitudes",
-      "",
-      "300~700",
-      "ascending",
-      "order_the_numbers_from_smallest_to_largest.mp3",
-      "Order the numbers from smallest to largest."
-    ],
-    [
-      "quizmaths",
-      "1",
-      "Description",
       "operations_with_objects",
-      "1~4",
-      "2~5-1~4=?"
+      "20~40",
+      "11~19+11~19=?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "11~19",
+      "10+1~9=?",
+      "vertical"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "11~19",
+      "11~20+1~10=?",
+      "vertical"
     ],
     [
       "quizmaths",
@@ -38,6 +33,24 @@
       "operations_with_objects",
       "20~30",
       "11~19+1~9=?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "1~100",
+      "31~50+20~50=?",
+      "vertical"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_drag",
+      "1~50",
+      "31~50-11~20=?",
+      "vertical"
     ],
     [
       "quizmaths",
@@ -55,12 +68,29 @@
       "quizmaths",
       "1",
       "Description",
+      "operations_with_objects",
+      "20~30",
+      "1~9+11~19=?"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
       "compare_number_magnitudes",
       "",
       "11~50",
       "descending",
       "order_the_numbers_from_largest_to_smallest.mp3",
       "Order the numbers from largest to smallest."
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "missing_number_drag",
+      "2~3",
+      "1~20",
+      "ascending"
     ],
     [
       "quizmaths",
@@ -75,9 +105,27 @@
       "quizmaths",
       "1",
       "Description",
+      "operations_drag",
+      "1~100",
+      "20~70-11~30=?",
+      "vertical"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
       "operations_without_objects",
       "4~81",
       "2~9x2~9=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_without_objects",
+      "4~27",
+      "2~3x2~9=?",
       "horizontal"
     ],
     [
@@ -97,6 +145,42 @@
       "5~4",
       "100~999",
       "ascending"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "missing_number_drag",
+      "5~3",
+      "100~999",
+      "ascending"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "missing_number_drag",
+      "2~4",
+      "50~100",
+      "descending"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_without_objects",
+      "2~45",
+      "5x1~9=?",
+      "horizontal"
+    ],
+    [
+      "quizmaths",
+      "1",
+      "Description",
+      "operations_without_objects",
+      "6~81",
+      "9x1~9=?",
+      "horizontal"
     ]
   ]
 }
